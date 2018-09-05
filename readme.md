@@ -51,7 +51,7 @@ https://conda.io/docs/user-guide/install/macos.html
 
 This section describes how to install other helpful software for the course. This software is peripheral to doing the assignments, but it will improve your quality of life. They are also very standard.
 
-##Text Editors
+## Text Editors
 
 Below are links to install popular text editors. These are not required, but they make it easier to type and format code by highlighting syntax. You can find installation instructions on their websites
 
