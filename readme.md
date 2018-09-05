@@ -56,6 +56,7 @@ This section describes how to install other helpful software for the course. Thi
 Below are links to install popular text editors. These are not required, but they make it easier to type and format code by highlighting syntax. You can find installation instructions on their websites
 
 https://atom.io/
+
 https://www.sublimetext.com/
 
 ## Git
