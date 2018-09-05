@@ -1,7 +1,7 @@
 
 Welcome to ECO 348k! As part of the class, you will be completing coding excersizes involving webscraping and data analysis. I plan to upload helpful code to this github repository (written in Python) that I review in sections. Although it is not required that you use git or Python for this class, they are helpful skills to have for industry and research.
 
-Below I've provided links to help you install Python and Anacondas (a set of useful python packages) as well as other helpful software for the course. This guide assumes that you are somewhat familiar with installing software. I will update it with more detail as needed. There are many good tutorials for installing these packages out there.
+Below I've provided links to help you install Python and Anacondas (a set of useful Python packages) as well as other helpful software for the course. This guide assumes that you are somewhat familiar with installing software. I will update it with more detail as needed. There are many good tutorials for installing these packages out there.
 
 
 # Setting up Python and Anacondas 
@@ -36,14 +36,14 @@ I think it is as simple as following the installer's instructions. If it asks, m
 
 You already have it! Open up the Terminal (search for it using finder).
 
-* Type `python` to see if python is running.
+* Type `python` to see if Python is running.
 
 * Type `exit()` to leave the Python shell.
 
 
 ### Setting up Anacondas
 
-Below is a guide for setting up anacondas. In order to install you will need to download the Anaconda installer for macOS from the link below. After you download the installer you will can run the `.pkg` file. If it asks, make sure to add Anacondas to my PATH enviroment variable. If you forget this step, you will need to add it manually which is complicated.
+Below is a guide for setting up Anacondas. In order to install you will need to download the Anaconda installer for macOS from the link below. After you download the installer you will can run the `.pkg` file. If it asks, make sure to add Anacondas to my PATH enviroment variable. If you forget this step, you will need to add it manually which is complicated.
 
 https://conda.io/docs/user-guide/install/macos.html
 
